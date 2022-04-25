@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanju50201
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Automobile Engineering(don't know why i took that as my major)
-- 💞️ I’m looking to collaborate on some interesting projects
+- 👀 I’m interested in coding
+- 🌱 I’m currently a Student pursuing BE 
+- 💞️ I’m looking to collaborate on some interesting projects related to Java, JavaScript and it's Frameworks 
 - 📫 How to reach me sanjithk50201@gmail.com
 
 <!---
