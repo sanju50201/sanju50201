@@ -9,7 +9,7 @@ Hey, I am Sanjith Kumar V, i'm a developer with more than 3 years of coding expe
 2. File Management System (this project was just built using Core Java, this project deals with the CRUD operations, Link to the project : https://github.com/sanju50201/File-Management-System) 
 3. ToDoApp (this app is a todo app, which was built using React and Node JS. Link to the project: https://github.com/sanju50201/To-do-Node-App)
 
-* 🌍  I'm based in Bengaluru
+* 🌍  I'm based in Bengaluru.
 * ✉️  You can contact me at [sanjithk50201@gmail.com](mailto:sanjithk50201@gmail.com)
 * 🧠  I'm learning Node and NEXT JS
 * 🤝  I'm open to collaborating on Java, JavaScript and any projects related to Web Development and AI.
