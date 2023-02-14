@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer, Programmer
 -------------------------
 
-Hey, I am Sanjith Kumar V, i'm a developer with more than 3 years of coding experience, I'm skilled in multiple programming languages including Java, JavaScript, Python and C++. I have a passion for Web Development technologies and love to build projects using latest tools and frameworks. I'm keenly interested in Machine Learning, and have been actively working on projects related to this field. My GitHub page showcases some of the work I've done and I want to share it to the public. I'm particularly proud of 
+Hey, I am **Sanjith Kumar V**, i'm a developer with more than 3 years of coding experience, I'm skilled in multiple programming languages including Java, JavaScript, Python and C++. I have a passion for Web Development technologies and love to build projects using latest tools and frameworks. I'm keenly interested in Machine Learning, and have been actively working on projects related to this field. My GitHub page showcases some of the work I've done and I want to share it to the public. I'm particularly proud of 
 1. StudyMate(Which is a study room based on the topics of the users, built using Django. Link to the project: https://github.com/sanju50201/StudyMate) 
 2. File Management System (this project was just built using Core Java, this project deals with the CRUD operations, Link to the project : https://github.com/sanju50201/File-Management-System) 
 3. ToDoApp (this app is a todo app, which was built using React and Node JS. Link to the project: https://github.com/sanju50201/To-do-Node-App)
