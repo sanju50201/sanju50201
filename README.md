@@ -4,13 +4,20 @@ Hi 👋 My name is Sanjith Kumar V
 Software Engineer, AI ML Enthusiast
 -----------------------------------
 
-Hey, I am Sanjith Kumar V, I'm a developer with more than 3 years of coding experience, I'm skilled in multiple programming languages including Java, JavaScript, Python, and C++. I have a passion for Web Development technologies and love to build projects using the latest tools and frameworks. I'm keenly interested in Machine Learning and have been actively working on projects related to this field. My GitHub page showcases some of the work I've done and I want to share it with the public. I'm particularly proud of StudyMate(Which is a study room based on the topics of the users, built using Django. Link to the project: https://github.com/sanju50201/StudyMate) File Management System (this project was just built using Core Java, this project deals with the CRUD operations, Link to the project: https://github.com/sanju50201/File-Management-System) ToDoApp (this app is a todo app, which was built using React and Node JS. Link to the project: https://github.com/sanju50201/To-do-Node-App)
+Hey, I am Sanjith Kumar V, I'm a developer with more than 3 years of coding experience, I'm skilled in multiple programming languages including Java, JavaScript, Python, and C++. I have a passion for Web Development technologies and love to build projects using the latest tools and frameworks. I'm keenly interested in Machine Learning and have been actively working on projects related to this field. My GitHub page showcases some of the work I've done and I want to share it with the public. I'm particularly proud of 
+ - StudyMate(Which is a study room based on the topics of the users, built using Django. Link to the project: https://github.com/sanju50201/StudyMate) 
+ - File Management System (this project was just built using Core Java, this project deals with the CRUD operations, Link to the project: https://github.com/sanju50201/File-Management-System) 
+ - ToDoApp (this app is a todo app, which was built using React and Node JS. Link to the project: https://github.com/sanju50201/To-do-Node-App)
 
-*   🌍  I'm based in Bengaluru
-*   ✉️  You can contact me at [sanjithk50201@gmail.com](mailto:sanjithk50201@gmail.com)
-*   🧠  I'm learning NLP, Neural Networks
-*   🤝  I'm open to collaborating on Java, JavaScript and Python projects
-*   ⚡  i like Dogs, and my favorite TV Show of all time is The Office### Skills 
+* 🌍  I'm based in Bengaluru
+* ✉️  You can contact me at [sanjithk50201@gmail.com](mailto:sanjithk50201@gmail.com)
+* 🧠  I'm learning NLP, Neural Networks
+* 🤝  I'm open to collaborating on Java, JavaScript and Python projects
+* ⚡  i like Dogs, and my favorite TV Show of all time is The Office
+
+### Skills
+
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -23,21 +30,16 @@ Hey, I am Sanjith Kumar V, I'm a developer with more than 3 years of coding expe
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/sanju50201" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://sanjublogs.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/sanjith-kumar-venugopal-1a471b212" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.medium.com/@sanjithk50201" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/ksanjith_5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/sanju50201"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=sanju50201&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/sanju50201"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sanju50201&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/sanju50201" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://sanjublogs.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sanjith-kumar-venugopal-1a471b212" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@sanjithk50201" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ksanjith_5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/sanju50201"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sanju50201&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/sanju50201"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sanju50201&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
