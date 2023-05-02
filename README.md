@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjith Kumar V</h1>
 <h3 align="center">Software Engineer, AI ML Enthusiast</h3>
 
-<img algign="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbfkuhskr2sCNcg-18UjnP5vGkPzqce7QfdQ&usqp=CAU">
+<img algign="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbfkuhskr2sCNcg-18UjnP5vGkPzqce7QfdQ&usqp=CAU.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanju50201&label=Profile%20views&color=0e75b6&style=flat" alt="sanju50201" /> </p>
 
