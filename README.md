@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:52%;position:relative;"><iframe src="https://giphy.com/embed/7c8zUY2t0dsEcxu5on" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/DataCamp-online-learning-coding-course-7c8zUY2t0dsEcxu5on">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm Sanjith Kumar V</h1>
 <h3 align="center">Software Engineer, AI ML Enthusiast</h3>
 
