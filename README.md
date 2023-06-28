@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Chrono-AI**
 
-- 🌱 I’m currently learning **Tensorflow, Deep Learning**
+- 🌱 I’m currently learning **PyTorch, Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanju50201](https://github.com/sanju50201)
 
